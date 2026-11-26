@@ -32,5 +32,6 @@ Power BI Desktop | DAX | Power Query | Excel / CSV | Data Modeling
 ![Data Model](screenshorts/sales_dashboard.png)
 ### Customer Dashboard
 ![Data Model](screenshorts/customer_dashboard.png)
-### Insights Generated
+
 ### Author
+[Mukul Singh](https://www.linkedin.com/in/mr-mukul-singh/)
