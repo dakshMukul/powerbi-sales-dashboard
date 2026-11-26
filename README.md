@@ -27,8 +27,10 @@ Power BI Desktop | DAX | Power Query | Excel / CSV | Data Modeling
 - Customer Count
 - Sales Growth %
 ### Data Model
-### Dashboard Screenshots
-### Executive Dashboard
-### Executive Dashboard
+![Data Model](screenshorts/datamodel.png)
+### Sales Dashboard
+![Data Model](screenshorts/sales_dashboard.png)
+### Customer Dashboard
+![Data Model](screenshorts/customer_dashboard.png)
 ### Insights Generated
 ### Author
